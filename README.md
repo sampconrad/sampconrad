@@ -53,3 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampconrad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+    
+![Snake animation](https://github.com/sampconrad/sampconrad/blob/output/github-contribution-grid-snake.svg)
+
