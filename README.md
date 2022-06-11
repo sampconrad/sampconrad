@@ -54,5 +54,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
     
-![Snake animation](https://github.com/sampconrad/sampconrad/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SAMPCONRAD/SAMPCONRAD/blob/output/github-contribution-grid-snake.gif)
 
