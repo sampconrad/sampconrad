@@ -9,25 +9,19 @@
   <a href="mailto:sampconrad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  alt="Gmail Badge"/>
   </a>
+<div align="center">
+  <a href="https://www.sampconrad.com" target="_blank"><img src="https://c.tenor.com/ur0xcQWCkegAAAAC/the-office-michael-scott.gif" width="300"/></a> 
+</div>
 </div>
   <img src="https://komarev.com/ghpvc/?username=sampconrad&style=flat-square&color=blue" alt=""/>
-    <h1>
-     Hey, I'm Conrado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-    </h1>
-</div>
-
-<div align="center">
-  <img src="https://c.tenor.com/ur0xcQWCkegAAAAC/the-office-michael-scott.gif" width="400"/>
 </div>
 
 ### ⚡ About Me
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+Hey, I'm Conrado. I'm a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 From LL.B to Developer. I ditched a career in Law to pursue my true passion.
+- 🌱 From LL.B to Developer. I ditched a career in Law to pursue my true passion.
 
-- 🌱 Learning something new every day.
-
-- ❤️ I spend my free time with my awesome wife Ingra and dog Buba, play video games, and lift weights.
+- ❤️ I spend my free time with my awesome wife Ingra and our dog Buba.
 
 - 🚀 Check my portfolio at www.sampconrad.com
 ---
@@ -55,5 +49,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sampconrad&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampconrad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
