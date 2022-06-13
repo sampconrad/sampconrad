@@ -53,7 +53,9 @@ Hey, I'm Conrado. I'm a Full Stack Developer. <img src="https://media.giphy.com/
   <a href="https://smartbrain-v3.herokuapp.com/" target="_blank"><img src="https://camo.githubusercontent.com/d4538bc17f52da07422152991bab25e7dd5b28d3c2192726bf5d03e46ac46c29/68747470733a2f2f692e696d6775722e636f6d2f695965474730652e706e67" width="250"/></a> 
   <a href="https://sampconrad.github.io/lofi-player/" target="_blank"><img src="https://camo.githubusercontent.com/f1bacc6ed2af395cc6f5dc44913aad7fa6eb5ff6049efe78675efb028562f249/68747470733a2f2f692e696d6775722e636f6d2f7674397a58654a2e706e67" width="250"/></a> 
   <a href="https://sampconrad.github.io/skelly-jokester/" target="_blank"><img src="https://camo.githubusercontent.com/2d56b1bad916ae6322dc9d3c549a12ba2537550b8759c7d03c0513bded38568e/68747470733a2f2f692e696d6775722e636f6d2f524439414b41442e706e67" width="250"/></a> 
+  <a href="https://expo.dev/@sampconrad/uber-clone" target="_blank"><img src="https://raw.githubusercontent.com/sampconrad/uber-clone/main/preview.png" width="250"/></a> 
 </div>
+  
   
 ---
 <div id="stats" align="center">
