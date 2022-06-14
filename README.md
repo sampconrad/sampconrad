@@ -26,7 +26,7 @@ Hey, I'm Conrado. I'm a Full Stack Developer. <img src="https://media.giphy.com/
 - 🚀 Check my portfolio at www.sampconrad.com
 ---
 
-### 🛠️ Tools Of The Trade
+### 🛠️ Tech Stack
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
