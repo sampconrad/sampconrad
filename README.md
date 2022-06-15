@@ -9,15 +9,15 @@
   <a href="mailto:sampconrad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  alt="Gmail Badge"/>
   </a>
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.sampconrad.com" target="_blank"><img src="https://c.tenor.com/ur0xcQWCkegAAAAC/the-office-michael-scott.gif" width="300"/></a> 
-</div>
+</div> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=sampconrad&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### ⚡ About Me
-Hey, I'm Conrado. I'm a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hey, I'm Conrado. I'm a Full Stack Developer.
 
 - 🌱 From LL.B to Developer. I ditched a career in Law to pursue my true passion.
 
