@@ -17,9 +17,9 @@
 </div>
 
 ### ⚡ About Me
-Hey, I'm Conrado. I'm a Full Stack Developer.
+Hey, I'm Conrado. I'm a Front-end Developer.
 
-- 🌱 From LL.B to Developer, I ditched a career in Law to pursue my true passion. With a strong focus on fluid and streamlined user experiences, I'm bringing projects to life, from concept to design and development.
+- 🌱 Former LL.B. turned Dev, I ditched a career in Law for a keyboard and a Stackoverflow account, which I put to good use bringing streamlined user-focused projects to life.
 
 - ❤️ I spend my free time with my awesome wife Ingra and our dog Buba.
 
@@ -29,6 +29,7 @@ Hey, I'm Conrado. I'm a Full Stack Developer.
 ### 🛠️ Tech Stack
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
