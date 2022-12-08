@@ -1,5 +1,5 @@
 <div id="header" align="center">  
-  <a href="https://www.sampconrad.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/876/876019.png" target="_blank" width="100"></a>  
+  <a href="https://www.sampconrad.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/876/876019.png" width="200"></a>  
 </div>
 
 <!-- <div id="header" align="center">  
