@@ -1,7 +1,9 @@
-<div id="header" align="center">
-    <!-- logo -->
-  <a href="https://www.sampconrad.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/876/876019.png" target="_blank" width="100"></a> 
-    <!-- socials -->
+<div id="header" align="center">  
+  <a href="https://www.sampconrad.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/876/876019.png" target="_blank" width="100"></a>  
+</div>
+
+<!-- <div id="header" align="center">  
+  <a href="https://www.sampconrad.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/876/876019.png" target="_blank" width="100"></a>  
   <div id="badges">
   <a href="https://www.linkedin.com/in/sampconrad/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
@@ -9,14 +11,11 @@
   <a href="mailto:sampconrad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  alt="Gmail Badge"/>
   </a>
-<!-- <div align="center">
-  <a href="https://www.sampconrad.com" target="_blank"><img src="https://c.tenor.com/ur0xcQWCkegAAAAC/the-office-michael-scott.gif" width="300"/></a> 
-</div> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=sampconrad&style=flat-square&color=blue" alt=""/>
 </div>
-
-### ⚡ About Me
+ -->
+<!-- ### ⚡ About Me
 Hey, I'm Conrado. I'm a Front-end Developer.
 
 - 🌱 Former LL.B. turned Dev, I ditched a career in Law for a keyboard and a Stackoverflow account, which I put to good use bringing streamlined user-focused projects to life.
@@ -60,4 +59,4 @@ Hey, I'm Conrado. I'm a Front-end Developer.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sampconrad&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampconrad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
