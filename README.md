@@ -1,6 +1,11 @@
-<div id="header" align="center">  
+<!-- <div id="header" align="center">  
   <a href="https://www.sampconrad.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/876/876019.png" width="100"></a>  
+</div> -->
+
+<div id="header" align="center">  
+  <a href="https://www.sampconrad.com" target="_blank"><img src="https://i.imgur.com/OrK40Xg.png" width="300"></a>  
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7EF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Conrado+and+I+do+dev+stuff.;www.sampconrad.com)](https://git.io/typing-svg)
 
