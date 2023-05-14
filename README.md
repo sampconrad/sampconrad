@@ -7,7 +7,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7EF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Conrado+and+I+do+dev+stuff.;www.sampconrad.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7EF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Conrado+and+I+do+dev+stuff.;www.sampconrad.com)](https://www.sampconrad.com)
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
