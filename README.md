@@ -3,7 +3,7 @@
 </div> -->
 
 <div id="header" align="center">  
-  <a href="https://www.sampconrad.com" target="_blank"><img src="https://i.imgur.com/OrK40Xg.png" width="300"></a>  
+  <a href="https://www.sampconrad.com" target="_blank"><img src="https://svgshare.com/i/wdn.svg" width="300"></a>  
 </div>
 
 
